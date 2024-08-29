@@ -1,4 +1,4 @@
-package works.buddy.samples;
+//package works.buddy.samples;
 
 import org.junit.Before;
 import org.junit.Test;
